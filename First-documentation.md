@@ -1,6 +1,6 @@
 # RESPONSIVE WEB DESIGN
 
-### HISTORY OF RESPONSIVE WEB DESIGN:
+## HISTORY OF RESPONSIVE WEB DESIGN:
 
 ### Web design was formally built for large screens until the advent of the mobile screen, tablet screen, etc. There was a need to build applications that will fit into the new screen sizes and enhance its appearance.
 
