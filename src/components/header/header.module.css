@@ -1,0 +1,23 @@
+.header {
+  display: flex;
+  justify-content: space-between;
+  background-color: #3352dc;
+  color: #fbec3e;
+  height: 100px;
+}
+.hero {
+  margin: 20px;
+}
+.listItem {
+  display: block;
+}
+.listItem li {
+  list-style: none;
+  font-weight: bold;
+  font-size: 16px;
+  margin: 5px;
+}
+
+.desktop {
+  display: none;
+}
